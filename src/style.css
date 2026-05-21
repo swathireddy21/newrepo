@@ -23,7 +23,6 @@ body {
 .login-box h2 {
   text-align: center;
   margin-bottom: 30px;
-  color: #333;
 }
 
 .login-box input {
@@ -32,7 +31,6 @@ body {
   margin-bottom: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  font-size: 14px;
 }
 
 .login-box button {
@@ -42,17 +40,5 @@ body {
   color: white;
   border: none;
   border-radius: 5px;
-  font-size: 16px;
   cursor: pointer;
-}
-
-.login-box button:hover {
-  background: #005fd1;
-}
-
-.demo {
-  margin-top: 20px;
-  text-align: center;
-  color: gray;
-  font-size: 13px;
 }
